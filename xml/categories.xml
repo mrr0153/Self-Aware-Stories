@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+  <categories>
+    <catid>1</catid>
+    <catname>Feedback is Your Friend</catname>
+  </categories>
+  <categories>
+    <catid>2</catid>
+    <catname>New Hire Transition - I</catname>
+  </categories>
+  <categories>
+    <catid>3</catid>
+    <catname>New Hire Transition - II</catname>
+  </categories>
+  <categories>
+    <catid>4</catid>
+    <catname>Job Readiness - Goals</catname>
+  </categories>
+  <categories>
+    <catid>5</catid>
+    <catname>Job Readiness - Planning</catname>
+  </categories>
+  <categories>
+    <catid>6</catid>
+    <catname>Job Readiness - Preparation</catname>
+  </categories>
+  <categories>
+    <catid>7</catid>
+    <catname>Job Readiness - Practice</catname>
+  </categories>
+  <categories>
+    <catid>8</catid>
+    <catname>First Impression </catname>
+  </categories>
+  <categories>
+    <catid>9</catid>
+    <catname>Friendship</catname>
+  </categories>
+  <categories>
+    <catid>10</catid>
+    <catname>Marriages</catname>
+  </categories>
+</theme>

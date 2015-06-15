@@ -1,0 +1,107 @@
+[	
+	{
+		"code": "4",
+		"value": 2,
+		"name": "SV 1"
+	},
+	{
+		"code": "4",
+		"value": 4,
+		"name": "CV 1"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "SV 2"
+	},
+	{
+		"code": "4",
+		"value": 4,
+		"name": "CV 2"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "SV 3"
+	},
+	{
+		"code": "WA",
+		"value": 1,
+		"name": "CV 3"
+	},
+
+	{
+		"code": "4",
+		"value": 1,
+		"name": "SV 4"
+	},
+	{
+		"code": "VN",
+		"value": 2,
+		"name": "CV 4"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "SV 5"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "CV 5"
+	}	
+	,
+	{
+		"code": "4",
+		"value": 3,
+		"name": "SV 6"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "CV 6"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "SV 7"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "CV 7"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "SV 8"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "CV 8"
+	},
+	{
+		"code": "4",
+		"value": 3,
+		"name": "SV 9"
+	}
+	,
+	{
+		"code": "4",
+		"value": 3,
+		"name": "CV 9"
+	}
+	,
+	{
+		"code": "4",
+		"value": 3,
+		"name": "SV 10"
+	}
+	,
+	{
+		"code": "4",
+		"value": 3,
+		"name": "CV 10"
+	}
+]
